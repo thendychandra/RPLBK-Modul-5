@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "email": "thendychandra@gmail.com",
+      "first_name": "Thendy",
+      "last_name": "Chandra",
+      "avatar": "https://avatars.githubusercontent.com/u/50979607?v=4"
+    },
+    {
+      "id": 2,
+      "email": "riskifarisfn@gmail.com",
+      "first_name": "Riski",
+      "last_name": "Nur Faris",
+      "avatar": "https://avatars.githubusercontent.com/u/49047015?v=4"
+    },
+    {
+      "id": 3,
+      "email": "muhriz14@gmail.com",
+      "first_name": "Muhammad",
+      "last_name": "Riziq Yahya",
+      "avatar": "https://avatars.githubusercontent.com/u/49051303?v=4"
+    },
+    {
+      "id": 4,
+      "email": "shaddam.albz@gmail.com",
+      "first_name": "Shaddam",
+      "last_name": "Alghafiqih",
+      "avatar": "https://avatars.githubusercontent.com/u/47707535?v=4"
+    },
+    {
+      "id": 5,
+      "email": "alvinarrazy29@gmail.com",
+      "first_name": "Alvin",
+      "last_name": "Arrazy",
+      "avatar": "https://avatars.githubusercontent.com/u/51030862?v=4"
+    },
+    {
+      "id": 6,
+      "email": "gibrantaopik@gmail.com",
+      "first_name": "M Taopik",
+      "last_name": "Gibran",
+      "avatar": "https://avatars.githubusercontent.com/u/49028961?v=4"
+    },
+    {
+      "id": 7,
+      "email": "danangf99@gmail.com",
+      "first_name": "Danang",
+      "last_name": "Achmad F",
+      "avatar": "https://avatars.githubusercontent.com/u/32757356?v=4"
+    }
+  ]
+}
